@@ -1,3 +1,8 @@
+### 0.0.4
+(released 21/11/2013)
+
+- essential grammar fix
+
 ### 0.0.3
 (released 21/11/2013)
 
