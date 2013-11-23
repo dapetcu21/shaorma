@@ -1,0 +1,19 @@
+{
+  "name": "shaorma",
+  "version": "0.0.1",
+  "description": "shaorma.js is a command line utility for ordering delicious food",
+  "keywords": [
+    "food",
+    "joke"
+  ],
+  "bugs": "https://github.com/tvararu/shaorma/issues",
+  "author": "0xDEF",
+  "bin": {
+    "shaorma": "bin/shaorma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tvararu/shaorma.git"
+  },
+  "preferGlobal": true
+}
